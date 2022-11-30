@@ -28,11 +28,10 @@ function setup() {
 	y: 0,
 	z: 0,
 	rotationX:0,
-	rotationY:180,
-	rotationZ:45,
-	scaleX: 0.4,
-	scaleY: 0.4,
-	scaleZ: 0.4,
+	rotationY:125,
+	scaleX: 1.2,
+	scaleY: 1.2,
+	scaleZ: 1.2,
   });
   markerHiro.add(model);
 
